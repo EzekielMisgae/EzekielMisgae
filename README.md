@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**EzekielMisgae/EzekielMisgae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**EzekielMisgae/EzekielMisgae** is a ✨ _special_ ✨ repository.
 
 - 🔭 I’m currently working on ALX Projects.
 - 🌱 I’m currently learning Software Engineering at Bahirdar Institute of Technology(BIT) and AlX Africa.
