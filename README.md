@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 
-- ⚡ I love 🎹 (still learning 😃) and writing (I work as a content creator on youtube too)
+- ⚡ I love 🎹 (still learning 😃) and I work as a content creator on youtube too😃
 
 
 🕸 My latest resume here: [Resume](https://docs.google.com/document/d/1nRcm5sjBKqCnrGOswnPRrCet2VqLZhhIIut_BzhhiWs/edit?usp=sharing)
