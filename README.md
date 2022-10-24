@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 -->
 
-- Ezekiel here! I'm currently an SWE student at ALX and BDU. I am interested in Front-End dev and music.
+- Ezekiel here! I'm currently a SWE student at ALX and BiT. I am interested in Front-End dev and music.
 
 
 - Wanna 💬? You can find me on [Instagram](https://instagram.com/ezekielmisgae), [Twitter](https://twitter.com/ezekielmisganaw), on [LinkedIn](https://www.linkedin.com/in/ezekielmisgae), or email [Ezekiel Alene](mailto:ezkielmisgae@gmail.com?subject=[GitHub]).
