@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 
 
 
-<a href="">
-  <img align="center" src="https://github-readme-stats.gojo-herokuapp.app/api?username=ezekielmisgae&show_icons=true&theme=tokyonight" />
+<a href="https://gojo.herokuapp.com/aboutme">
+  <img align="center" src="https://www.flaticon.com/free-icons/readme" title="readme icons" />
 </a>
