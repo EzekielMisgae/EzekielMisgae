@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 
 
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ezekielmisgae&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.gojo-herokuapp.app/api?username=ezekielmisgae&show_icons=true&theme=tokyonight" />
 </a>
