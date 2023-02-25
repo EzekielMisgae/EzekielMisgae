@@ -14,4 +14,4 @@
 
 🕸 My latest resume here: [Resume](https://docs.google.com/document/d/1nRcm5sjBKqCnrGOswnPRrCet2VqLZhhIIut_BzhhiWs/edit?usp=sharing)
 
-<a href="https://gojo.herokuapp.com/aboutme">You can find sth about me...</a>
+You can find sth<a href="https://gojo.herokuapp.com/aboutme"> about me...</a>
