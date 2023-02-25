@@ -2,11 +2,21 @@
 
 <!--
 **EzekielMisgae/EzekielMisgae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
 -->
+
+Ezekiel here! I'm currently a SWE student at ALX and BiT. I am interested in Full-stack development and music.
+
+Wanna 💬? You can find me on Instagram, Twitter, on LinkedIn, or email Ezekiel Alene.
+
+⚡ I love 🎹 (still learning 😃) and I work as a content creator on YouTube too 😃
+
+📄 My latest resume can be found here: Resume
+
+<a href="https://www.flaticon.com/free-icons/readme">
+  <img align="center" src="https://raw.githubusercontent.com/flaticon/basic-icons/master/16/readme.svg" title="readme icons" />
+</a>
+
+
 
 - Ezekiel here! I'm currently a SWE student at ALX and BiT. I am interested in Full-stack development and music.
 
