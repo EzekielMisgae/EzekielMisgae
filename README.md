@@ -1,9 +1,5 @@
 ### Hello world 👋
 
-<!--
-**EzekielMisgae/EzekielMisgae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
 - Ezekiel here! I'm currently a SWE student at ALX and BiT. I am interested in Back-end development and music🤐.
 
 
