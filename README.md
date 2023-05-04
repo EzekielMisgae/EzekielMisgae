@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ezekiel M. Alene</h1>
-<h3 align="center">A passionate backend developer from Ethiopia.</h3>
+<h3 align="center">An enthusiastic programmer specializing in backend development hailing from Ethiopia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ezekielmisgae&label=Profile%20views&color=0e75b6&style=flat" alt="ezekielmisgae" /> </p>
 
