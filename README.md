@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ezekiel M. Alene</h1>
 <h3 align="center">An enthusiastic programmer specializing in backend development hailing from Ethiopia.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ezekielmisgae&label=Profile%20views&color=0e75b6&style=flat" alt="ezekielmisgae" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ezekielmisgae&label=Profile%20views&color=0e75b6&style=flat" alt="ezekielmisgae" /> </p> -->
 
 <p align="left"> <a href="https://twitter.com/ezekielmisganaw" target="blank"><img src="https://img.shields.io/twitter/follow/ezekielmisganaw?logo=twitter&style=for-the-badge" alt="ezekielmisganaw" /></a> </p>
 
