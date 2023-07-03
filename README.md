@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/ezekielmisganaw" target="blank"><img src="https://img.shields.io/twitter/follow/ezekielmisganaw?logo=twitter&style=for-the-badge" alt="ezekielmisganaw" /></a> </p>
 
-- 🔭 I’m currently working on [GojoRent](https://github.com/EzekielMisgae/GojoRent)
 
 - 🌱 I’m currently learning **SWE in BDU and finished Alx SWE in Backend Specialization.**
 
