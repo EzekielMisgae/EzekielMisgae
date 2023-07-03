@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **SWE in BDU and finished Alx SWE in Backend Specialization.**
 
-- 👯 I’m looking to collaborate on **any Django and Nodejs projects.**
+- 👯 I’m looking to collaborate on **any Django projects.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/EzekielMisgae](https://github.com/EzekielMisgae)
 
