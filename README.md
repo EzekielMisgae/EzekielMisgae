@@ -24,7 +24,7 @@
 <a href="https://twitter.com/ezekielmisganaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ezekielmisganaw" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ezekielmisgae" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ezekielmisgae" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18438543" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18438543" height="30" width="40" /></a>
-<a href="https://instagram.com/ezekielmisgae" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ezekielmisgae" height="30" width="40" /></a>
+<a href="https://instagram.com/eziboy3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ezekielmisgae" height="30" width="40" /></a>
 <a href="https://hashnode.com/@ezekielalene" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@ezekielalene" height="30" width="40" /></a>
 </p>
 
