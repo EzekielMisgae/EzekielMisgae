@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/ezekielmisganaw" target="blank"><img src="https://img.shields.io/twitter/follow/ezekielmisganaw?logo=twitter&style=for-the-badge" alt="ezekielmisganaw" /></a> </p>
 
 
-- 🌱 I've bachelors in **SWE in BDU and finished Alx SWE in Backend Specialization.**
+- 🌱 Bachelors in **SWE in BDU and finished Alx SWE in Backend Specialization.**
 
 - 👯 I’m looking to collaborate on **any Django projects.**
 
