@@ -1,34 +1,55 @@
-<h1 align="center">Hi 👋, I'm Ezekiel M. Alene</h1>
-<h3 align="center">An enthusiastic programmer specializing in backend development hailing from Ethiopia.</h3>
+<h1 align="center">Ezekiel M. Alene</h1>
+<p align="center">Backend Software Engineer | Django, Node.js, API Engineering</p>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ezekielmisgae&label=Profile%20views&color=0e75b6&style=flat" alt="ezekielmisgae" /> </p> -->
-
-<p align="left"> <a href="https://twitter.com/ezekielmisganaw" target="blank"><img src="https://img.shields.io/twitter/follow/ezekielmisganaw?logo=twitter&style=for-the-badge" alt="ezekielmisganaw" /></a> </p>
-
-
-- 🌱 **SWE in BDU and finished ALX SWE with Backend Specialization.**
-
-- 👯 I’m looking to collaborate on **any Django projects.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/EzekielMisgae](https://github.com/EzekielMisgae)
-
-- 💬 Ask me about **Django and Nodejs**
-
-- 📫 How to reach me **ezkielmisgae@gmail.com**
-
-- ⚡ Fun fact **I like music.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/ezekielmisgae" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ezekielmisgae" height="30" width="40" /></a>
-<a href="https://twitter.com/ezekielmisganaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ezekielmisganaw" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ezekielmisgae" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ezekielmisgae" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18438543" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18438543" height="30" width="40" /></a>
-<a href="https://instagram.com/eziboy3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ezekielmisgae" height="30" width="40" /></a>
-<a href="https://hashnode.com/@ezekielalene" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@ezekielalene" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/EzekielMisgae">
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github" alt="GitHub Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/ezekielmisgae">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile" />
+  </a>
+  <a href="mailto:ezkielmisgae@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Contact" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+## Professional Summary
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ezekielmisgae&show_icons=true&locale=en&layout=compact" alt="ezekielmisgae" /></p>
+Backend-focused Software Engineer based in Ethiopia, with academic and hands-on training from BDU and ALX SWE (Backend Specialization). I build scalable web services, design reliable APIs, and focus on maintainable systems that support product growth.
+
+## Core Competencies
+
+- Backend Architecture and API Design
+- Django and Node.js Application Development
+- Relational and NoSQL Database Integration
+- Docker-based Development and Deployment Workflows
+- Performance, Reliability, and Code Maintainability
+
+## Technology Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+## Professional Links
+
+- GitHub: [github.com/EzekielMisgae](https://github.com/EzekielMisgae)
+- LinkedIn: [linkedin.com/in/ezekielmisgae](https://linkedin.com/in/ezekielmisgae)
+- Dev.to: [dev.to/ezekielmisgae](https://dev.to/ezekielmisgae)
+- Hashnode: [hashnode.com/@ezekielalene](https://hashnode.com/@ezekielalene)
+- Stack Overflow: [stackoverflow.com/users/18438543](https://stackoverflow.com/users/18438543)
+
+## GitHub Metrics
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ezekielmisgae&show_icons=true&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ezekielmisgae&show_icons=true&locale=en&layout=compact&hide_border=true" alt="Top languages" />
+</p>
